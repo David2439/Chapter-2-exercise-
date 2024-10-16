@@ -1,1 +1,1 @@
-from prime import isprime
+from .prime import isprime
